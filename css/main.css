@@ -60,12 +60,13 @@ header .block .logo {
   margin-bottom: 70px;
 }
 header .block h2 {
-  margin-bottom: 15px;
+  margin-top: 0px;
+  margin-bottom: 10px;
   color: #fff;
 }
 header .block p {
   margin-bottom: 27px;
-  margin-top: 0;
+  margin-top: 15px;
   color: #fff;
 }
 header .block .download-btn a {
